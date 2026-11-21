@@ -274,3 +274,9 @@
 ## 11. 画面遷移図
 
 Figma:https://www.figma.com/design/Udphpyd4zJwI8WAOaGL3yf/%E5%A4%A7%E5%AE%B6%E3%81%95%E3%82%93%E3%81%AE%E6%B1%BA%E7%AE%97%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC-%E7%94%BB%E9%9D%A2%E9%81%B7%E7%A7%BB%E5%9B%B3?node-id=3-304&t=C6xjc9H78ohU0Qwh-1
+
+---
+
+## 12. ER図
+
+Figma：https://www.figma.com/design/Udphpyd4zJwI8WAOaGL3yf?node-id=17-615
